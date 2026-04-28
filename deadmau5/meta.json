@@ -1,11 +1,12 @@
 {
   "id": "deadmau5",
   "name": "deadmau5 Skins",
-  "author": "Bobby",
+  "author": "CodeGuyEli",
   "description": "deadmau5's skin in multiple colors",
   "extended_description": "",
   "category": [
     "Skin",
+    "DLC"
   ],
   "thumbnail": "thumbnail.png",
   "zips": {
